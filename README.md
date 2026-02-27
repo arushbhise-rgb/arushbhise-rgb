@@ -1,16 +1,49 @@
-## Hi there 👋
+# **Hey there**
 
-<!--
-**arushbhise-rgb/arushbhise-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Arush, a Computer Science student based in Canada.
+I focus on building practical projects in Java, AI, and automation. I like learning by creating things and improving them over time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **What I do**
+
+* Build Java and Python projects
+* Explore AI and computer vision
+* Create automation and data-cleaning tools
+* Learn Android development
+* Improve my coding workflow and GitHub structure
+
+---
+
+## **Tech I use**
+
+* Java, Python, C, SQL
+* VS Code, IntelliJ, Eclipse
+* JavaFX, Swing
+* pandas, NumPy, Matplotlib
+* OpenCV, YOLO
+
+---
+
+## **Projects I work on**
+
+* AI-powered game simulations
+* Data automation and processing tools
+* Python + SQL workflow scripts
+* Small Java applications
+
+---
+
+## **About me**
+
+* I enjoy building PCs
+* I like playing football
+* I go to the gym regularly
+* I prefer simple and clean setups in code and in life
+
+---
+
+## **Contact**
+
+* Email: [arush.bhise@unb.ca](mailto:arush.bhise@unb.ca)
+* LinkedIn: linkedin.com/in/arushbhise
