@@ -1,6 +1,6 @@
 # **Hey there**
 
-I’m Arush, a Computer Science student based in Canada.
+I’m Arush, a Computer Science student based in Canada.  
 I focus on building practical projects in Java, AI, and automation. I like learning by creating things and improving them over time.
 
 ---
@@ -8,7 +8,7 @@ I focus on building practical projects in Java, AI, and automation. I like learn
 ## **What I do**
 
 * Build Java and Python projects
-* Explore AI and computer vision
+* Explore AI, LLMs, and computer vision
 * Create automation and data-cleaning tools
 * Learn Android development
 * Improve my coding workflow and GitHub structure
@@ -22,6 +22,22 @@ I focus on building practical projects in Java, AI, and automation. I like learn
 * JavaFX, Swing
 * pandas, NumPy, Matplotlib
 * OpenCV, YOLO
+* OpenAI API, LLM workflows
+
+---
+
+## **Current AI Learning**
+
+I am currently learning **LLM Engineering and Generative AI**, focusing on building real AI applications.
+
+Topics I’m exploring:
+
+* Large Language Models (LLMs)
+* Prompt engineering
+* AI agents and automation
+* Retrieval-Augmented Generation (RAG)
+* API-based AI applications
+* Working with frontier and open-source models
 
 ---
 
@@ -31,6 +47,7 @@ I focus on building practical projects in Java, AI, and automation. I like learn
 * Data automation and processing tools
 * Python + SQL workflow scripts
 * Small Java applications
+* AI tools that combine web scraping and LLMs
 
 ---
 
